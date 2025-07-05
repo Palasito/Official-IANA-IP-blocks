@@ -14,8 +14,8 @@ jobs:
         run: |
           .\build.ps1
           # Pushing the sources and list to main
-          git config --global user.email "spynetgirl@outlook.com"
-          git config --global user.name "HotCakeX"
+          git config --global user.email "palas@spworxx.com"
+          git config --global user.name "Palasito"
           git add --all
           git commit -m "updating sources and list"
           git push
