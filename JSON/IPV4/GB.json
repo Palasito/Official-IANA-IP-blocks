@@ -27013,12 +27013,6 @@
   },
   {
     "Country": "GB",
-    "IP": "185.24.72.0",
-    "PrefixLength": "22",
-    "Version": "ipv4"
-  },
-  {
-    "Country": "GB",
     "IP": "185.24.84.0",
     "PrefixLength": "24",
     "Version": "ipv4"
@@ -36284,7 +36278,19 @@
   {
     "Country": "GB",
     "IP": "188.94.40.0",
-    "PrefixLength": "21",
+    "PrefixLength": "23",
+    "Version": "ipv4"
+  },
+  {
+    "Country": "GB",
+    "IP": "188.94.42.0",
+    "PrefixLength": "24",
+    "Version": "ipv4"
+  },
+  {
+    "Country": "GB",
+    "IP": "188.94.44.0",
+    "PrefixLength": "22",
     "Version": "ipv4"
   },
   {

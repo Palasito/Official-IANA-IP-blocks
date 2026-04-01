@@ -3817,6 +3817,12 @@
   },
   {
     "Country": "AE",
+    "IP": "131.222.200.0",
+    "PrefixLength": "19",
+    "Version": "ipv4"
+  },
+  {
+    "Country": "AE",
     "IP": "132.243.112.0",
     "PrefixLength": "20",
     "Version": "ipv4"
@@ -4040,6 +4046,18 @@
   {
     "Country": "AE",
     "IP": "153.56.138.0",
+    "PrefixLength": "20",
+    "Version": "ipv4"
+  },
+  {
+    "Country": "AE",
+    "IP": "153.56.152.0",
+    "PrefixLength": "23",
+    "Version": "ipv4"
+  },
+  {
+    "Country": "AE",
+    "IP": "153.56.154.0",
     "PrefixLength": "17",
     "Version": "ipv4"
   },
@@ -4299,6 +4317,12 @@
     "Country": "AE",
     "IP": "185.22.228.0",
     "PrefixLength": "24",
+    "Version": "ipv4"
+  },
+  {
+    "Country": "AE",
+    "IP": "185.24.72.0",
+    "PrefixLength": "22",
     "Version": "ipv4"
   },
   {

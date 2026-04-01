@@ -3451,12 +3451,6 @@
   },
   {
     "Country": "NO",
-    "IP": "185.1.174.0",
-    "PrefixLength": "24",
-    "Version": "ipv4"
-  },
-  {
-    "Country": "NO",
     "IP": "185.1.212.0",
     "PrefixLength": "24",
     "Version": "ipv4"
@@ -6704,6 +6698,12 @@
   {
     "Country": "NO",
     "IP": "194.104.126.0",
+    "PrefixLength": "24",
+    "Version": "ipv4"
+  },
+  {
+    "Country": "NO",
+    "IP": "194.104.231.0",
     "PrefixLength": "24",
     "Version": "ipv4"
   },
