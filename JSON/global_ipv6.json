@@ -7495,6 +7495,12 @@
   },
   {
     "Country": "AR",
+    "IP": "2803:3d30::",
+    "PrefixLength": "32",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "AR",
     "IP": "2803:3d80::",
     "PrefixLength": "32",
     "Version": "ipv6"
@@ -32018,6 +32024,12 @@
   {
     "Country": "BD",
     "IP": "2001:df7:3b80::",
+    "PrefixLength": "48",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "BD",
+    "IP": "2001:df7:3d40::",
     "PrefixLength": "48",
     "Version": "ipv6"
   },
@@ -71659,12 +71671,6 @@
   },
   {
     "Country": "BR",
-    "IP": "2804:556c::",
-    "PrefixLength": "32",
-    "Version": "ipv6"
-  },
-  {
-    "Country": "BR",
     "IP": "2804:5570::",
     "PrefixLength": "32",
     "Version": "ipv6"
@@ -94747,6 +94753,18 @@
   },
   {
     "Country": "BR",
+    "IP": "2804:99c0::",
+    "PrefixLength": "32",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "BR",
+    "IP": "2804:99c4::",
+    "PrefixLength": "32",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "BR",
     "IP": "2a00:aee0::",
     "PrefixLength": "29",
     "Version": "ipv6"
@@ -96081,6 +96099,12 @@
     "Country": "CA",
     "IP": "2602:81e:1000::",
     "PrefixLength": "44",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "CA",
+    "IP": "2602:f350::",
+    "PrefixLength": "36",
     "Version": "ipv6"
   },
   {
@@ -139231,12 +139255,6 @@
   },
   {
     "Country": "DE",
-    "IP": "2602:f350::",
-    "PrefixLength": "36",
-    "Version": "ipv6"
-  },
-  {
-    "Country": "DE",
     "IP": "2604:bc80::",
     "PrefixLength": "32",
     "Version": "ipv6"
@@ -181015,12 +181033,6 @@
   },
   {
     "Country": "GB",
-    "IP": "2a04:5bc0::",
-    "PrefixLength": "29",
-    "Version": "ipv6"
-  },
-  {
-    "Country": "GB",
     "IP": "2a04:5c40::",
     "PrefixLength": "29",
     "Version": "ipv6"
@@ -208237,7 +208249,25 @@
   },
   {
     "Country": "ID",
+    "IP": "2001:df7:3bc0::",
+    "PrefixLength": "48",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "ID",
     "IP": "2001:df7:3c00::",
+    "PrefixLength": "48",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "ID",
+    "IP": "2001:df7:3c40::",
+    "PrefixLength": "48",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "ID",
+    "IP": "2001:df7:3cc0::",
     "PrefixLength": "48",
     "Version": "ipv6"
   },
@@ -234733,12 +234763,6 @@
   },
   {
     "Country": "IR",
-    "IP": "2a04:5b00::",
-    "PrefixLength": "29",
-    "Version": "ipv6"
-  },
-  {
-    "Country": "IR",
     "IP": "2a04:6980::",
     "PrefixLength": "29",
     "Version": "ipv6"
@@ -237230,24 +237254,6 @@
   {
     "Country": "IR",
     "IP": "2a14:79c0::",
-    "PrefixLength": "29",
-    "Version": "ipv6"
-  },
-  {
-    "Country": "IR",
-    "IP": "2a14:7c80::",
-    "PrefixLength": "29",
-    "Version": "ipv6"
-  },
-  {
-    "Country": "IR",
-    "IP": "2a14:7d80::",
-    "PrefixLength": "29",
-    "Version": "ipv6"
-  },
-  {
-    "Country": "IR",
-    "IP": "2a14:7e80::",
     "PrefixLength": "29",
     "Version": "ipv6"
   },
@@ -330247,6 +330253,12 @@
   },
   {
     "Country": "SI",
+    "IP": "2001:67c:a74::",
+    "PrefixLength": "48",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "SI",
     "IP": "2001:67c:be0::",
     "PrefixLength": "48",
     "Version": "ipv6"
@@ -349657,6 +349669,12 @@
   },
   {
     "Country": "US",
+    "IP": "2602:29f::",
+    "PrefixLength": "36",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "US",
     "IP": "2602:2a1::",
     "PrefixLength": "36",
     "Version": "ipv6"
@@ -352293,6 +352311,24 @@
     "Country": "US",
     "IP": "2602:81e:6000::",
     "PrefixLength": "44",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "US",
+    "IP": "2602:f33e::",
+    "PrefixLength": "40",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "US",
+    "IP": "2602:f33f::",
+    "PrefixLength": "36",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "US",
+    "IP": "2602:f340::",
+    "PrefixLength": "40",
     "Version": "ipv6"
   },
   {
@@ -365588,6 +365624,12 @@
   {
     "Country": "US",
     "IP": "2602:fe0f::",
+    "PrefixLength": "36",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "US",
+    "IP": "2602:fe10::",
     "PrefixLength": "36",
     "Version": "ipv6"
   },
@@ -382195,6 +382237,12 @@
   },
   {
     "Country": "US",
+    "IP": "2606:cde0::",
+    "PrefixLength": "32",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "US",
     "IP": "2606:ce40::",
     "PrefixLength": "32",
     "Version": "ipv6"
@@ -384344,6 +384392,12 @@
   {
     "Country": "US",
     "IP": "2607:4000::",
+    "PrefixLength": "32",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "US",
+    "IP": "2607:4060::",
     "PrefixLength": "32",
     "Version": "ipv6"
   },
@@ -397699,12 +397753,6 @@
   },
   {
     "Country": "US",
-    "IP": "2620:ae:e000::",
-    "PrefixLength": "48",
-    "Version": "ipv6"
-  },
-  {
-    "Country": "US",
     "IP": "2620:af::",
     "PrefixLength": "44",
     "Version": "ipv6"
@@ -398186,6 +398234,12 @@
   {
     "Country": "US",
     "IP": "2620:bb:5000::",
+    "PrefixLength": "48",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "US",
+    "IP": "2620:bb:b800::",
     "PrefixLength": "48",
     "Version": "ipv6"
   },
