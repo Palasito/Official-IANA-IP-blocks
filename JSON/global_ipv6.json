@@ -341551,6 +341551,12 @@
   },
   {
     "Country": "TW",
+    "IP": "2602:f349::",
+    "PrefixLength": "40",
+    "Version": "ipv6"
+  },
+  {
+    "Country": "TW",
     "IP": "2602:f37a::",
     "PrefixLength": "40",
     "Version": "ipv6"
@@ -353391,12 +353397,6 @@
     "Country": "US",
     "IP": "2602:f348::",
     "PrefixLength": "36",
-    "Version": "ipv6"
-  },
-  {
-    "Country": "US",
-    "IP": "2602:f349::",
-    "PrefixLength": "40",
     "Version": "ipv6"
   },
   {
